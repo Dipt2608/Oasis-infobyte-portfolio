@@ -1,0 +1,90 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f9f9f9; /* Light gray background */
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header {
+    text-align: center;
+    background-color: #007bff; /* Blue header background */
+    padding: 50px 0;
+  }
+  
+  header img {
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+  }
+  
+  header h1 {
+    margin-top: 10px;
+    color: #fff; /* White text */
+  }
+  
+  header p {
+    color: #f0f0f0; /* Slightly off-white text */
+  }
+  
+  #contact {
+    background-color: #ffffff; /* White background */
+    padding: 50px 0;
+  }
+  
+  #contact h2 {
+    text-align: center;
+    color: #333; /* Dark text */
+  }
+  
+  #contact ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  #contact li {
+    margin-bottom: 10px;
+  }
+  
+  #contact a {
+    color: #007bff; /* Blue links */
+  }
+  
+  #skills {
+    background-color: #f0f0f0; /* Light gray background */
+    padding: 50px 0;
+  }
+  
+  #skills h2 {
+    text-align: center;
+    color: #333; /* Dark text */
+  }
+  
+  #skills ul {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  #skills li {
+    margin: 0 10px;
+    padding: 10px 20px;
+    background-color: #007bff; /* Blue skill badges */
+    color: #fff; /* White text */
+    border-radius: 20px;
+  }
+  
+  footer {
+    background-color: #333; /* Dark gray background */
+    color: #fff; /* White text */
+    text-align: center;
+    padding: 20px 0;
+  }
+  
